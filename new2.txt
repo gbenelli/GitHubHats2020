@@ -1,3 +1,0 @@
-This is a new file in the repository.
-Changing the text slightly.
-And a bit more for new2.txt.
